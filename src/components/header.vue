@@ -1,6 +1,7 @@
 <template>
-    <div>
-        header
+    <div> 
+      <h3>我是头部模块</h3>
+
     </div>
 </template>
 
@@ -8,7 +9,7 @@
  export default {
    data () {
      return {
-
+       
      }
    },
    components: {
